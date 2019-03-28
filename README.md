@@ -8,7 +8,7 @@ The channel used in simulation is an Additive White Gaussian Noise Channel (AWGN
 4. Proceed to add needed blocks as will be shown below
 ## Modulation Schemes
 * Binary Phase-shift Keying [(**BPSK**)](#bpsk-modulation)
-* Quadrature Phase-Shift Keying [(**QPSK**)](#qpsk-modultaion)
+* Quadrature Phase-Shift Keying [(**QPSK**)](#qpsk-modulation)
 * Frequecny-Shift Keying [(**FSK**)](#fsk-modulation)
 * Quadrature Amplitude Modulation [(**QAM**)](#qam-modulation)  16-64
 --------------------------------------------------------------------------------
