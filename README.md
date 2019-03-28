@@ -7,10 +7,11 @@ The channel used in simulation is an Additive White Gaussian Noise Channel (AWGN
 3. Add a new blank model
 4. Proceed to add needed blocks as will be shown below
 ## Modulation Schemes
-* Binary Phase-shift Keying (**BPSK**)
-* Quadrature Phase-Shift Keying (**QPSK**)
-* Frequecny-Shift Keying (**FSK**) 
-* Quadrature Amplitude Modulation (**QAM**)  16-64
+* Binary Phase-shift Keying [(**BPSK**)](#bpsk-modulation)
+* Quadrature Phase-Shift Keying [(**QPSK**)](#qpsk-modultaion)
+* Frequecny-Shift Keying [(**FSK**)](#fsk-modulation)
+* Quadrature Amplitude Modulation [(**QAM**)](#qam-modulation)  16-64
+--------------------------------------------------------------------------------
 ### BPSK Modulation
 In BPSK Modulation, the binary signal is modulated by changing the *phase* of a fixed frequency carrier signal. Two symbols are modulated in the following diagram, thus two phases exist in the system, 0 and 180, as will be shown in the *Constellation Diagram*.
 #### Function Blocks
